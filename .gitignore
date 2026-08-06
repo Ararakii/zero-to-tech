@@ -19,3 +19,5 @@ dist/
 .env*
 
 backend/.venv
+backend/__pycache__/main.cpython-314.pyc
+*.pyc
